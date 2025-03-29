@@ -1,0 +1,17 @@
+# Core dependencies
+python-dotenv==1.0.0
+tqdm==4.66.1
+requests==2.31.0
+
+# Subtitle handling
+pysrt==1.1.2
+python-dateutil==2.8.2
+
+# API clients
+openai==0.28.1  # For translation and filler word suggestions
+
+# Media processing
+ffmpeg-python==0.2.0  # Python wrapper for FFmpeg
+
+# Frontend
+streamlit
