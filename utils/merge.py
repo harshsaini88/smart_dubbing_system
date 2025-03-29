@@ -20,7 +20,7 @@ def parse_time(timestamp):
     Returns:
         datetime: Datetime object representing the timestamp
     """
-    return datetime.strptime(timestamp, '%H:%M:%S.%f')
+    return datetime.strptime(timestamp, '%H:%M:%S,%f')
 
 def format_time(dt_obj):
     """
@@ -32,7 +32,7 @@ def format_time(dt_obj):
     Returns:
         str: Formatted timestamp string in format HH:MM:SS.mmm
     """
-    return dt_obj.strftime('%H:%M:%S.%f')[:-3]
+    return dt_obj.strftime('%H:%M:%S,%f')[:-3]
 
 def is_complete_sentence(text):
     """

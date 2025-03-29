@@ -12,6 +12,15 @@ openai==0.28.1  # For translation and filler word suggestions
 
 # Media processing
 ffmpeg-python==0.2.0  # Python wrapper for FFmpeg
+pydub
+
+# SRT handling
+pysrt>=1.1.2
+srt>=3.5.2
+
+# Speech recognition (new)
+openai-whisper>=20231117
+torch>=2.0.0
 
 # Frontend
 streamlit

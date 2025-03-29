@@ -1,24 +1,20 @@
 1
-00:00:01.000 --> 00:00:05.250
-'Bienvenido a este tutorial en video sobre cómo crear subtítulos.' En esta lección, aprenderemos los
+00:00:00,000 --> 00:00:04,000
+Welcome to this video tutorial on how to create subtitles.
 
 2
-00:00:05.250 --> 00:00:09.500
-conceptos básicos de los archivos SRT.
+00:00:04,000 --> 00:00:08,500
+'In this lesson, we will learn the basic concepts of SRT files.' 'An SRT (SubRip
 
 3
-00:00:10.000 --> 00:00:14.000
-Un archivo SRT consiste en texto de subtítulos con marcas de tiempo.
+00:00:08,500 --> 00:00:13,250
+Subtitle) file consists of subtitle text with timestamp markers.' "Each subtitle entry has a sequence
 
 4
-00:00:14.500 --> 00:00:18.750
-'Cada entrada de subtítulo tiene un número de secuencia y un rango de tiempo.' "Esto
+00:00:13,250 --> 00:00:21,000
+number and a time range." This helps synchronize the subtitles with the video.
 
 5
-00:00:18.750 --> 00:00:23.125
-ayuda a sincronizar los subtítulos con el video." ¡Ahora sabes lo básico de cómo crear
-
-6
-00:00:23.125 --> 00:00:27.500
-un archivo SRT!
+00:00:21,000 --> 00:00:25,000
+"Now you know the basics of how to create an SRT file."
 

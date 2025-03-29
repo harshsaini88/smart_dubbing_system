@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,000
+Bienvenido a este tutorial en vídeo sobre cómo crear subtítulos.
+
+2
+00:00:04,000 --> 00:00:09,000
+En esta lección, aprenderemos los conceptos básicos de los arquivos SRT.
+
+3
+00:00:09,000 --> 00:00:13,000
+Un arquivo SRT consiste en texto de subtítulos con marcas de tiempo.
+
+4
+00:00:13,000 --> 00:00:18,000
+Cada entrada de subtítulo tiene un número de secuencia y un rango de tiempo.
+
+5
+00:00:18,000 --> 00:00:21,000
+Esto ayuda a sincronizar los subtítulos con el vídeo.
+
+6
+00:00:21,000 --> 00:00:25,000
+Ahoraz sabes lo básico de cómo crear un arquivo SRT.
+
