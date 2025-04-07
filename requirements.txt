@@ -24,3 +24,9 @@ torch>=2.0.0
 
 # Frontend
 streamlit
+opencv-python 
+face_recognition 
+numpy
+
+google-cloud-storage 
+requests

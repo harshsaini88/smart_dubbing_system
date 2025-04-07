@@ -64,12 +64,11 @@ def generate_srt_from_audio(
         "Korean": "ko",
         "Arabic": "ar",
         "Hindi": "hi"
-        # Add more languages as needed
     }
     language_code = language_map.get(language, "en")
     
     # Load Whisper model
-    model = whisper.load_model(model_name, device="cuda" if torch.cuda.is_available() else "cpu")
+    model = whisper.load_model(model_name, device="cpu")
     
     # Set options for transcription
     options = {

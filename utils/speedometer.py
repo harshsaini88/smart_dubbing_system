@@ -113,5 +113,5 @@ def add_timestamp_to_filename(filepath):
         str: File path with timestamp inserted before extension
     """
     base, ext = os.path.splitext(filepath)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    return f"{base}_{timestamp}{ext}"
+    # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    return f"{base}{ext}"
